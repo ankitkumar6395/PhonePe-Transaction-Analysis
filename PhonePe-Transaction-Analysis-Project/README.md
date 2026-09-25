@@ -1,33 +1,51 @@
-# 📱 PhonePe Transaction Analysis
+# 📊 PhonePe Transaction Analysis
 
-📊 End-to-end **Power BI dashboard** analyzing PhonePe transaction data with KPI tracking, user segmentation, transaction trends, and business insights.
+## 📌 Project Overview
 
-## 🛠️ Tools Used
+This project analyzes PhonePe transaction data using Microsoft Power BI.
+The dashboard provides an interactive view of transaction volume, transaction value,
+user activity, service types, and transaction trends.
 
-- 📊 Power BI
-- 🧮 DAX
-- 🔄 Power Query
+## 🎯 Business Objective
 
-## 🚀 Key Features
+- Analyze overall transaction performance
+- Track transaction trends over time
+- Identify high-value users
+- Analyze service-wise transaction value
+- Understand weekday vs weekend transaction activity
+- Analyze user age-segment contribution
 
-- 📌 KPI Cards
-- 📈 Transaction Trend Analysis
-- 👥 User Segmentation
-- 💳 Payment Status Analysis
-- 📅 Weekday vs Weekend Analysis
-- 🎛️ Interactive Filters
+## 🛠️ Tools & Technologies
 
-## 💡 Key Insights
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
 
-- 📅 Weekday transactions are higher than weekends.
-- ✅ Success rate remains strong at **96%**.
-- 📊 July recorded the highest transaction activity.
-- 👥 Millennials contribute the largest user segment.
+## 📊 Dashboard Features
 
-## 🖥️ Dashboard Preview
+- Total Transactions
+- Total Transaction Value
+- Unique Users
+- Transaction Trend
+- Service Transaction Value Analysis
+- Top 5 Users by Transaction Value
+- Age Segment Contribution
+- Weekday vs Weekend Usage
+- Transaction Status Analysis
 
-![Dashboard Preview](Screenshot%202026-06-19%20223837.png)
+## 📁 Project Files
 
-## 🎯 Project Objective
+| File | Description |
+|------|-------------|
+| `PhonePe_Analysis1.pbix` | Power BI dashboard |
+| `README.md` | Project documentation |
+| `Dashboard Screenshot` | Dashboard preview |
 
-The objective of this project is to transform PhonePe transaction data into an interactive Power BI dashboard and identify meaningful trends, user patterns, and business insights.
+## 📸 Dashboard Preview
+
+The dashboard screenshot is available in this repository.
+
+## 👤 Author
+
+**Ankit Kumar**
