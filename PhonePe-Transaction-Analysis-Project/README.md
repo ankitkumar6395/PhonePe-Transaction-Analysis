@@ -1,35 +1,33 @@
+# 📱 PhonePe Transaction Analysis
 
-# 📱 PhonePe Transaction Analysis Project
-
-A Power BI data analysis project based on PhonePe transaction data.
-
-## 🎯 Project Objective
-
-The objective of this project is to analyze transaction data and identify
-important trends, patterns, and business insights using Power BI.
+📊 End-to-end **Power BI dashboard** analyzing PhonePe transaction data with KPI tracking, user segmentation, transaction trends, and business insights.
 
 ## 🛠️ Tools Used
 
 - 📊 Power BI
-- 📁 Data Analysis
-- 📈 Data Visualization
+- 🧮 DAX
+- 🔄 Power Query
 
-## 📌 Key Analysis
+## 🚀 Key Features
 
-- 💰 Transaction Amount Analysis
-- 🔢 Transaction Count Analysis
-- 📅 Transaction Trends
-- 🗺️ State-wise Analysis
-- 📊 Category-wise Analysis
-- 📈 Interactive Dashboard
+- 📌 KPI Cards
+- 📈 Transaction Trend Analysis
+- 👥 User Segmentation
+- 💳 Payment Status Analysis
+- 📅 Weekday vs Weekend Analysis
+- 🎛️ Interactive Filters
 
-## 📂 Project Files
+## 💡 Key Insights
 
-- `PhonePe_Analysis1.pbix` - Power BI dashboard
-- `README.md` - Project documentation
-- `Screenshot` - Dashboard preview
+- 📅 Weekday transactions are higher than weekends.
+- ✅ Success rate remains strong at **96%**.
+- 📊 July recorded the highest transaction activity.
+- 👥 Millennials contribute the largest user segment.
 
-## 🚀 Project Outcome
+## 🖥️ Dashboard Preview
 
-This project demonstrates how transaction data can be transformed into
-interactive dashboards and meaningful business insights using Power BI.
+![Dashboard Preview](Screenshot%202026-06-19%20223837.png)
+
+## 🎯 Project Objective
+
+The objective of this project is to transform PhonePe transaction data into an interactive Power BI dashboard and identify meaningful trends, user patterns, and business insights.
